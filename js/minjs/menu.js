@@ -1,0 +1,1 @@
+"use strict";!function(){function e(e){e.preventDefault(),n.classList.toggle("menu--visible"),t.classList.toggle("toggle--opened")}var t=document.querySelector(".toggle"),n=document.querySelector(".navigation");t.addEventListener("click",e)}();
